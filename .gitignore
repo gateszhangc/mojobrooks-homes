@@ -1,0 +1,40 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Build outputs
+dist/
+build/
+out/
+*.tsbuildinfo
+.next/
+
+# OS files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+.Directory
+
+# IDE
+.vscode/settings.json
+.idea/
+*.sublime-*
+
+# Env files
+.env
+.env.local
+.env.*.local
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Caches
+.eslintcache
+.stylelintcache
+.cache/
