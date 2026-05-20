@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mojobrooks.homes/sitemap.xml
